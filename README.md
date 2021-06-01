@@ -7,7 +7,7 @@ Público alvo: Qualquer empresa/pessoa que possui interesses em um sistema de co
 Mercado: Vendas, entregas.
 
 <p align="justify">Descrição: Um sistema onde possa registrar as movimentações de encomendas entre as suas unidades ou destino. 
-O usuário para fazer a busca deve estar registrado com os seus dadospessoais. O motorista deve ter seu 
+O usuário para fazer a busca deve estar registrado com os seus dados pessoais. O motorista deve ter seu 
 cadastro é atualizar suas rotas nos devidos lugares. O administrador deve fazer seu login para fazer as 
 seguintes atualizações: cadastrar unidades, cadastrar motoristas, listar, emitir relatórios dos motoristas que
 estão em rotas.
