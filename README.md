@@ -13,17 +13,18 @@ seguintes atualizações: cadastrar unidades, cadastrar motoristas, listar, emit
 estão em rotas.
 </p>
 <h1></h1>
-Funcionalidades
 
-CLIENTE/USUÁRIO:
+### Funcionalidades
+
+> CLIENTE/USUÁRIO:
 + Login
 + Rastrear
 
-MOTORISTA:
+> MOTORISTA:
 + Login
 + Registrar a saída é chegada ao destino.
 
-ADMIN:
+> ADMIN:
 + Login
 + Cadastrar unidades da empresa
 + Cadastrar motoristas
@@ -36,4 +37,6 @@ ADMIN:
   <img src="https://user-images.githubusercontent.com/22598762/120266281-f4ddb780-c277-11eb-94cb-6f07a866e770.png" width="800px">
   </div>
 
+
+> Status do projeto: Em desenvolvimento ⚠️
 
