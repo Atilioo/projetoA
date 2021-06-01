@@ -2,19 +2,16 @@
 
 ### Objetivo: Um gerenciador simples de trasporte de encomendas.
 
-<h1></h1>
-
 Público alvo: Qualquer empresa/pessoa que possui interesses em um sistema de confiança é qualidade.
 
 Mercado: Vendas, entregas.
 
-Descrição: Um sistema onde possa registrar as movimentações de encomendas entre as suas unidades ou destino. 
+<p align="justify">Descrição: Um sistema onde possa registrar as movimentações de encomendas entre as suas unidades ou destino. 
 O usuário para fazer a busca deve estar registrado com os seus dadospessoais. O motorista deve ter seu 
 cadastro é atualizar suas rotas nos devidos lugares. O administrador deve fazer seu login para fazer as 
 seguintes atualizações: cadastrar unidades, cadastrar motoristas, listar, emitir relatórios dos motoristas que
-estão em rotas. 
-
-
+estão em rotas.
+</p>
 <h1></h1>
 Funcionalidades
 
