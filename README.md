@@ -1,4 +1,4 @@
-## ⚠️ Nome do projeto: G.E ENCOMENDAS
+## ⚠️ Nome do projeto: G.E TRANSPORTES
 
 ### Objetivo: Um gerenciador simples de trasporte de encomendas.
 
