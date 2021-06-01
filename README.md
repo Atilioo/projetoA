@@ -27,3 +27,10 @@ ADMIN:
 + Listar motoristas
 + Relatorios
 
+## DIAGRAMA:
+
+<div align="Center">
+  <img src="https://user-images.githubusercontent.com/22598762/120266281-f4ddb780-c277-11eb-94cb-6f07a866e770.png" width="800px">
+  </div>
+
+
